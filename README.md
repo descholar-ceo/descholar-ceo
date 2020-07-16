@@ -6,6 +6,5 @@
 - 🤔 I’m looking for help with Testing React native app with either jest or mocha
 - 💬 Ask me about anything related to software engineering, I would be happy to help
 - 📫 How to reach me: Email me on [emmammugira@gmail.com](mailto:emmamugira@gmail.com)
-
 - 😄 Pronouns: Not Me nor I but Us or We
 - ⚡ Fun fact: Available to get hired!
