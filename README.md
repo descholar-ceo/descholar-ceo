@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [Phone History Store](https://github.com/nezago/phone-history-store-backend): Will be an open source project maintained by [Nezago](https://github.com/nezago)
+- 🔭 I’m currently working on [Phone History Store](https://github.com/nezago/phone-history-store-frontend): Will be an open source project maintained by [Nezago](https://github.com/nezago)
 - 🌱 I’m currently learning Ruby from [Microverse](https://www.microverse.org)
 - 👯 I’m looking to collaborate on any opensource project
 - 🤔 I’m looking for help with Testing React native app with either jest or mocha
