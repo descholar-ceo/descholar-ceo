@@ -1,7 +1,8 @@
-|# My Intro|
+| Intro |
 |-|
-|I am currently open to full-stack development posts, for global products, startups, and many more.
+|I am currently open to full-stack development job opportunities, backend, frontend, mobile development, and Technical team lead, for global products, startups, and many more.
 
+___
 
 |My current work|My statistics|My Languages|
 |-|-|-|
