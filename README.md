@@ -1,6 +1,6 @@
-| Intro |
+| Profile visitors |
 |-|
-|I am currently open to full-stack development job opportunities, backend, frontend, mobile development, and Technical team lead, for global products, startups, and many more.
+|![Visitors](https://profile-counter.glitch.me/%7Bdescholar-ceo%7D/count.svg)
 
 ___
 
