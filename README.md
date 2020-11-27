@@ -6,7 +6,7 @@ I work diligently as an individual and as a team member. I develop professional 
 
 ## Connect with me:
 
-[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/descholar3) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/mugirase-emmanuel) [![Send me email](https://img.shields.io/badge/--gmail?label=Gmail&logo=Gmail&style=social)](mailto:emmamugira@gmail.com) [![See my angellist profile](https://img.shields.io/badge/--angellist?label=AngelList&logo=AngelList&style=social)](https://angel.co/u/mugirase-emmanuel-1) [![See me on medium](https://img.shields.io/badge/--medium?label=Medium&logo=medium&style=social)](https://medium.com/@emmamugira)
+[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/descholar3) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/mugirase-emmanuel) [![Send me email](https://img.shields.io/badge/--gmail?label=Gmail&logo=Gmail&style=social)](mailto:emmamugira@gmail.com) [![See my angellist profile](https://img.shields.io/badge/--angellist?label=AngelList&logo=AngelList&style=social)](https://angel.co/u/mugirase-emmanuel-1) [![See me on medium](https://img.shields.io/badge/--medium?label=Medium&logo=medium&style=social)](https://medium.com/@emmamugira) [![See my resume](https://img.shields.io/badge/--resume?label=Resume&logo=resume&style=social)](https://docs.google.com/document/d/1U_bYKTK9rxVE0-qxozkEa6-4szZ6JUwXD6Zl4tsiCEg/edit?usp=sharing)
 ___
 
 |My statistics|My languages|This profile visitors|
