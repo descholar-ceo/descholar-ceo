@@ -1,3 +1,4 @@
+# :handshake: Hello! I am Mugirase Emmanuel :man: from Rwanda
 ## About me
 Collaborative, responsible, detail-oriented, and growth mindset are the top four adjectives that best define my aptitude towards work.
 
