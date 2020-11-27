@@ -1,3 +1,8 @@
+# About me
+Collaborative, responsible, detail-oriented, and growth mindset are the top four adjectives that best define my aptitude towards work.
+
+I work diligently as an individual and as a team member. I develop professional desktop, web, and mobile applications. My tasks concern analyzing, testing, debugging, troubleshooting, and implementing based on user or system design specifications.
+
 | Profile visitors |
 |-|
 |![Visitors](https://profile-counter.glitch.me/%7Bdescholar-ceo%7D/count.svg)
