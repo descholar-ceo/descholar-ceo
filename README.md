@@ -6,7 +6,7 @@ I work diligently as an individual and as a team member. I develop professional 
 
 ### How to reach me:
 
-[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/descholar3) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/mugirase-emmanuel) [![Send me email](https://img.shields.io/badge/--gmail?label=Gmail&logo=Gmail&style=social)](mailto:emmamugira@gmail.com)
+[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/descholar3) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/mugirase-emmanuel) [![Send me email](https://img.shields.io/badge/--gmail?label=Gmail&logo=Gmail&style=social)](mailto:emmamugira@gmail.com) [![Send me email](https://img.shields.io/badge/--angellist?label=AngelList&logo=AngelList&style=social)](https://angel.co/u/mugirase-emmanuel-1)
 ___
 
 |My statistics|My languages|This profile visitors|
