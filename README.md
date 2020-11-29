@@ -17,7 +17,15 @@ ___
 
 ### My daily work statistics
 <!--START_SECTION:waka-->
+```text
+Week: 21 November, 2020 - 28 November, 2020
 
+Markdown     4 hrs 13 mins   ████████▓░░░░░░░░░░░░░░░░   34.59 % 
+HTML         3 hrs 24 mins   ███████░░░░░░░░░░░░░░░░░░   27.89 % 
+JavaScript   1 hr 51 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.25 % 
+Ruby         1 hr 15 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
+CSS          40 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
+```
 <!--END_SECTION:waka-->
 ### My blogposts
 <!-- BLOG-POST-LIST:START -->
