@@ -15,6 +15,10 @@ ___
 |-|-|-|
 |[![descholar's github stats](https://github-readme-stats.vercel.app/api?username=descholar-ceo&show_icons=true&theme=dark&hide_title=true)](https://github.com/descholar-ceo)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=descholar-ceo&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/descholar-ceo)|![Visitors](https://profile-counter.glitch.me/%7Bdescholar-ceo%7D/count.svg)
 
+### My daily work statistics
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
 ### My blogposts
 <!-- BLOG-POST-LIST:START -->
 - [How To Resolve Git Conflicts After Rebase?](https://medium.com/@emmamugira/how-to-resolve-git-conflicts-after-rebase-e4afde1eab1?source=rss-e9c027d169e1------2)
