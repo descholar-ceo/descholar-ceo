@@ -1,6 +1,6 @@
 # :handshake: Hello! My name is Mugirase Emmanuel :man: I live in Rwanda
 
-## I am a full-stack software engineer. Currently I am a Technical Support Engineer at [Microverse](https://microverse.org)
+## I am a full-stack software engineer, Tecnical Lead, Software/Technical support Engineer, and Mentor
 ### About me
 Collaborative, responsible, detail-oriented, and growth mindset are the top four adjectives that best define my aptitude towards work.
 
