@@ -17,5 +17,5 @@ ___
 
 ### My blogposts
 <!-- BLOG-POST-LIST:START -->
-
+- [How To Resolve Git Conflicts After Rebase?](https://medium.com/@emmamugira/how-to-resolve-git-conflicts-after-rebase-e4afde1eab1?source=rss-e9c027d169e1------2)
 <!-- BLOG-POST-LIST:END -->
