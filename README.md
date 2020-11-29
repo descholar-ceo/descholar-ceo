@@ -1,4 +1,4 @@
-# :handshake: Hello! My name is Mugirase Emmanuel :man:
+# :handshake: Hello! My name is Mugirase Emmanuel :man: I live in Rwanda
 
 ## I am a full-stack software engineer. Currently I am a Technical Support Engineer at [Microverse](https://microverse.org)
 ### About me
