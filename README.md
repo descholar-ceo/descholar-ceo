@@ -18,7 +18,7 @@ ___
 ### My last week work's statistics
 <!--START_SECTION:waka-->
 ```text
-Week: 22 November, 2020 - 29 November, 2020
+Week: 23 November, 2020 - 30 November, 2020
 
 HTML       3 hrs 24 mins   ██████████░░░░░░░░░░░░░░░   40.32 % 
 Markdown   2 hrs 45 mins   ████████░░░░░░░░░░░░░░░░░   32.63 % 
