@@ -1,6 +1,6 @@
 # :handshake: Hello! My name is Mugirase Emmanuel :man: I live in Rwanda
 
-## I am a Full-Stack Software Engineer, Tecnical Lead, Software/Technical support Engineer, and Mentor
+## I am a Full-Stack Software Engineer, Software/Technical support Engineer, and Mentor
 ### About me
 Collaborative, responsible, detail-oriented, and growth mindset are the top four adjectives that best define my aptitude towards work.
 
