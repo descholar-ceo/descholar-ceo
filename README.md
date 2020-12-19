@@ -18,13 +18,13 @@ ___
 ### My last week work's statistics
 <!--START_SECTION:waka-->
 ```text
-Week: 10 December, 2020 - 17 December, 2020
+Week: 11 December, 2020 - 18 December, 2020
 
-JavaScript   6 hrs 6 mins    █████████▓░░░░░░░░░░░░░░░   38.75 % 
-Ruby         3 hrs 22 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.44 % 
-CSS          2 hrs 6 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.41 % 
-HTML         1 hr 48 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
-JSON         53 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
+JavaScript   8 hrs           ████████████░░░░░░░░░░░░░   48.25 % 
+Ruby         3 hrs 27 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.82 % 
+CSS          1 hr 48 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
+HTML         57 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
+JSON         53 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
 ```
 <!--END_SECTION:waka-->
 ### My blogposts
