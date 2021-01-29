@@ -18,7 +18,7 @@ ___
 ### My last week work's statistics
 <!--START_SECTION:waka-->
 ```text
-Week: 20 January, 2021 - 27 January, 2021
+Week: 21 January, 2021 - 28 January, 2021
 
 Ruby         10 hrs 24 mins  ██████████████░░░░░░░░░░░   55.46 % 
 ERB          5 hrs 35 mins   ███████▒░░░░░░░░░░░░░░░░░   29.84 % 
