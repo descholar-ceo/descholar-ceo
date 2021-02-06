@@ -18,7 +18,7 @@ ___
 ### My last week work's statistics
 <!--START_SECTION:waka-->
 ```text
-Week: 28 January, 2021 - 04 February, 2021
+Week: 29 January, 2021 - 05 February, 2021
 
 Ruby         9 hrs           ████████████░░░░░░░░░░░░░   48.37 % 
 JavaScript   3 hrs 29 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.79 % 
