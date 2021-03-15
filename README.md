@@ -18,7 +18,7 @@ ___
 ### My last week work's statistics
 <!--START_SECTION:waka-->
 ```text
-Week: 06 March, 2021 - 13 March, 2021
+Week: 07 March, 2021 - 14 March, 2021
 
 Ruby         8 hrs 7 mins    ██████████▒░░░░░░░░░░░░░░   41.39 % 
 JavaScript   6 hrs 4 mins    ███████▓░░░░░░░░░░░░░░░░░   30.91 % 
