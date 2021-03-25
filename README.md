@@ -18,7 +18,7 @@ ___
 ### My last week work's statistics
 <!--START_SECTION:waka-->
 ```text
-Week: 16 March, 2021 - 23 March, 2021
+Week: 17 March, 2021 - 24 March, 2021
 
 JavaScript   7 hrs 50 mins   █████████████░░░░░░░░░░░░   51.73 % 
 HTML         2 hrs 20 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
