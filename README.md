@@ -18,7 +18,7 @@ ___
 ### My last week work's statistics
 <!--START_SECTION:waka-->
 ```text
-Week: 12 May, 2021 - 19 May, 2021
+Week: 13 May, 2021 - 20 May, 2021
 
 JSX          11 hrs 34 mins  ███████████▒░░░░░░░░░░░░░   44.90 % 
 Ruby         5 hrs 11 mins   █████░░░░░░░░░░░░░░░░░░░░   20.13 % 
