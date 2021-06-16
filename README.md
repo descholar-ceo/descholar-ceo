@@ -18,12 +18,7 @@ ___
 ### My last week work's statistics
 <!--START_SECTION:waka-->
 ```text
-Week: 07 June, 2021 - 14 June, 2021
-
-Ruby         4 hrs 57 mins   ███████████░░░░░░░░░░░░░░   43.78 % 
-ERB          4 hrs 35 mins   ██████████░░░░░░░░░░░░░░░   40.54 % 
-JavaScript   1 hr 10 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
-Other        34 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 ### My blogposts
