@@ -18,7 +18,11 @@ ___
 ### My last week work's statistics
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 09 June, 2021 - 16 June, 2021
+
+YAML   7 mins          ███████████████▓░░░░░░░░░   62.92 % 
+SCSS   2 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.30 % 
+HTML   1 min           ███▒░░░░░░░░░░░░░░░░░░░░░   13.71 % 
 ```
 <!--END_SECTION:waka-->
 ### My blogposts
