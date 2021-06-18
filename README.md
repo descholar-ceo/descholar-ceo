@@ -18,11 +18,13 @@ ___
 ### My last week work's statistics
 <!--START_SECTION:waka-->
 ```text
-Week: 09 June, 2021 - 16 June, 2021
+Week: 10 June, 2021 - 17 June, 2021
 
-YAML   7 mins          ███████████████▓░░░░░░░░░   62.92 % 
-SCSS   2 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.30 % 
-HTML   1 min           ███▒░░░░░░░░░░░░░░░░░░░░░   13.71 % 
+JavaScript   5 hrs 37 mins   ███████████████▓░░░░░░░░░   62.56 % 
+SCSS         2 hrs 19 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.84 % 
+JSON         38 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
+YAML         11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+HTML         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
 ```
 <!--END_SECTION:waka-->
 ### My blogposts
