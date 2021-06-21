@@ -18,7 +18,7 @@ ___
 ### My last week work's statistics
 <!--START_SECTION:waka-->
 ```text
-Week: 12 June, 2021 - 19 June, 2021
+Week: 13 June, 2021 - 20 June, 2021
 
 JavaScript   14 hrs 28 mins  ████████████████▒░░░░░░░░   65.49 % 
 SCSS         5 hrs 48 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.29 % 
