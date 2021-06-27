@@ -18,13 +18,13 @@ ___
 ### My last week work's statistics
 <!--START_SECTION:waka-->
 ```text
-Week: 19 June, 2021 - 25 June, 2021
+Week: 20 June, 2021 - 26 June, 2021
 
-JavaScript   14 hrs 28 mins  ████████████████▒░░░░░░░░   65.49 % 
-SCSS         5 hrs 48 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.29 % 
-JSON         38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
-Ruby         34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
-YAML         23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+Ruby         3 hrs 52 mins   ████████████░░░░░░░░░░░░░   48.18 % 
+ERB          2 hrs 14 mins   ███████░░░░░░░░░░░░░░░░░░   27.90 % 
+JavaScript   47 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
+HTML         40 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
+Markdown     9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
 ```
 <!--END_SECTION:waka-->
 ### My blogposts
