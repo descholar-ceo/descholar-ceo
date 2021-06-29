@@ -18,13 +18,13 @@ ___
 ### My last week work's statistics
 <!--START_SECTION:waka-->
 ```text
-Week: 21 June, 2021 - 27 June, 2021
+Week: 22 June, 2021 - 28 June, 2021
 
-Ruby         3 hrs 37 mins   ████████░░░░░░░░░░░░░░░░░   31.61 % 
-ERB          2 hrs 14 mins   █████░░░░░░░░░░░░░░░░░░░░   19.57 % 
-JavaScript   1 hr 51 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
-Vue.js       1 hr 35 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.83 % 
-HTML         1 hr 16 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
+Vue.js       4 hrs 9 mins    █████████▒░░░░░░░░░░░░░░░   37.70 % 
+Ruby         2 hrs 10 mins   █████░░░░░░░░░░░░░░░░░░░░   19.71 % 
+JavaScript   2 hrs 1 min     ████▓░░░░░░░░░░░░░░░░░░░░   18.31 % 
+HTML         1 hr 16 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
+ERB          37 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
 ```
 <!--END_SECTION:waka-->
 ### My blogposts
