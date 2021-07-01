@@ -18,7 +18,7 @@ ___
 ### My last week work's statistics
 <!--START_SECTION:waka-->
 ```text
-Week: 23 June, 2021 - 29 June, 2021
+Week: 24 June, 2021 - 30 June, 2021
 
 Vue.js       4 hrs 9 mins    █████████▒░░░░░░░░░░░░░░░   37.70 % 
 Ruby         2 hrs 10 mins   █████░░░░░░░░░░░░░░░░░░░░   19.71 % 
