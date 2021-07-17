@@ -18,12 +18,9 @@ ___
 ### My last week work's statistics
 <!--START_SECTION:waka-->
 ```text
-Week: 09 July, 2021 - 15 July, 2021
+Week: 10 July, 2021 - 16 July, 2021
 
-Vue.js       2 hrs 34 mins   ███████████████████████░░   91.57 % 
-JavaScript   9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
-Git Config   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
-Java         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+Markdown   16 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 ### My blogposts
