@@ -18,13 +18,13 @@ ___
 ### My last week work's statistics
 <!--START_SECTION:waka-->
 ```text
-Week: 14 July, 2021 - 20 July, 2021
+Week: 15 July, 2021 - 21 July, 2021
 
-Ruby       4 hrs 43 mins   █████████████▓░░░░░░░░░░░   54.54 % 
-ERB        1 hr 48 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.87 % 
-YAML       1 hr 1 min      ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
-Other      30 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
-Markdown   16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+Ruby     5 hrs 44 mins   ████████████▓░░░░░░░░░░░░   50.45 % 
+ERB      2 hrs 13 mins   █████░░░░░░░░░░░░░░░░░░░░   19.60 % 
+Python   1 hr 7 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
+YAML     1 hr 1 min      ██▒░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
+Other    37 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
 ```
 <!--END_SECTION:waka-->
 ### My blogposts
