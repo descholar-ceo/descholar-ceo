@@ -18,7 +18,7 @@ ___
 ### My last week work's statistics
 <!--START_SECTION:waka-->
 ```text
-Week: 25 July, 2021 - 31 July, 2021
+Week: 26 July, 2021 - 01 August, 2021
 
 Scala    14 hrs 5 mins   ████████████████████░░░░░   79.94 % 
 Other    1 hr 32 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
