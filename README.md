@@ -18,7 +18,7 @@ ___
 ### My last week work's statistics
 <!--START_SECTION:waka-->
 ```text
-Week: 28 July, 2021 - 03 August, 2021
+Week: 29 July, 2021 - 04 August, 2021
 
 Scala        13 hrs 6 mins   █████████████████▒░░░░░░░   69.10 % 
 Python       3 hrs 44 mins   █████░░░░░░░░░░░░░░░░░░░░   19.72 % 
