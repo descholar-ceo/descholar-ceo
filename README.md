@@ -1,6 +1,6 @@
 # :handshake: Hello! My name is Mugirase Emmanuel :man: I live in Rwanda
 
-## I am a Software Engineer, Software/Technical support Engineer, and Mentor
+## I am a Software Engineer, and Mentor
 ### About me
 I’m an engineer who has an avid and consistent growth mindset, who believes strongly in integrity, and who has ambitious goals of contributing to the community by offering solutions that utilize my skills of software engineering.
 
