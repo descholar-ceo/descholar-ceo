@@ -18,13 +18,13 @@ ___
 ### My last week work's statistics
 <!--START_SECTION:waka-->
 ```text
-Week: 05 August, 2021 - 11 August, 2021
+Week: 06 August, 2021 - 12 August, 2021
 
-Scala    13 hrs 37 mins  ████████████████▒░░░░░░░░   65.84 % 
-Python   1 hr 56 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
-YAML     1 hr 44 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
-Other    1 hr 16 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
-Docker   46 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
+Scala    15 hrs 56 mins  █████████████▒░░░░░░░░░░░   53.36 % 
+YAML     4 hrs 50 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
+Docker   1 hr 40 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
+ERB      1 hr 24 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
+Other    1 hr 19 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
 ```
 <!--END_SECTION:waka-->
 ### My blogposts
