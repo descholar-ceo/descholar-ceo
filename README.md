@@ -18,7 +18,7 @@ ___
 ### My last week work's statistics
 <!--START_SECTION:waka-->
 ```text
-Week: 10 August, 2021 - 16 August, 2021
+Week: 11 August, 2021 - 17 August, 2021
 
 Scala   16 hrs 13 mins  ████████▓░░░░░░░░░░░░░░░░   34.18 % 
 ERB     12 hrs 46 mins  ██████▓░░░░░░░░░░░░░░░░░░   26.92 % 
