@@ -18,13 +18,13 @@ ___
 ### My last week work's statistics
 <!--START_SECTION:waka-->
 ```text
-Week: 20 August, 2021 - 26 August, 2021
+Week: 21 August, 2021 - 27 August, 2021
 
-Scala   23 hrs 24 mins  ████████████████████▓░░░░   83.22 % 
-Other   2 hrs 1 min     █▓░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
-YAML    1 hr 6 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
-ERB     58 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
-Ruby    18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+Scala   24 hrs 33 mins  █████████████████████░░░░   84.43 % 
+Other   1 hr 49 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
+YAML    1 hr 5 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
+ERB     58 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
+Ruby    18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
 ```
 <!--END_SECTION:waka-->
 ### My blogposts
