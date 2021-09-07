@@ -18,13 +18,13 @@ ___
 ### My last week work's statistics
 <!--START_SECTION:waka-->
 ```text
-Week: 28 August, 2021 - 03 September, 2021
+Week: 31 August, 2021 - 06 September, 2021
 
-Scala        20 hrs 38 mins  ██████████████████████▓░░   90.34 % 
-TypeScript   1 hr 6 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
-Other        48 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
-YAML         7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
-Vue.js       5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+Scala        10 hrs 8 mins   █████████████████░░░░░░░░   67.78 % 
+TypeScript   1 hr 15 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
+Other        1 hr 4 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
+Vue.js       53 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
+JavaScript   26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
 ```
 <!--END_SECTION:waka-->
 ### My blogposts
