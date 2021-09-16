@@ -18,7 +18,7 @@ ___
 ### My last week work's statistics
 <!--START_SECTION:waka-->
 ```text
-Week: 08 September, 2021 - 14 September, 2021
+Week: 09 September, 2021 - 15 September, 2021
 
 Scala        5 hrs 13 mins   ███████▒░░░░░░░░░░░░░░░░░   29.19 % 
 Go           5 hrs 6 mins    ███████░░░░░░░░░░░░░░░░░░   28.54 % 
