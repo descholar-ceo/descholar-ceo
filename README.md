@@ -18,7 +18,7 @@ ___
 ### My last week work's statistics
 <!--START_SECTION:waka-->
 ```text
-Week: 23 September, 2021 - 29 September, 2021
+Week: 24 September, 2021 - 30 September, 2021
 
 Scala        6 hrs 15 mins   ███████████▒░░░░░░░░░░░░░   44.80 % 
 TypeScript   4 hrs 32 mins   ████████░░░░░░░░░░░░░░░░░   32.50 % 
