@@ -18,7 +18,7 @@ ___
 ### My last week work's statistics
 <!--START_SECTION:waka-->
 ```text
-Week: 15 October, 2021 - 21 October, 2021
+Week: 16 October, 2021 - 22 October, 2021
 
 Other        5 hrs 57 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.07 % 
 JavaScript   3 hrs 26 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
