@@ -18,7 +18,7 @@ ___
 ### My last week work's statistics
 <!--START_SECTION:waka-->
 ```text
-Week: 21 October, 2021 - 27 October, 2021
+Week: 22 October, 2021 - 28 October, 2021
 
 Other        5 hrs 45 mins   ████████▒░░░░░░░░░░░░░░░░   33.72 % 
 Scala        3 hrs 28 mins   █████░░░░░░░░░░░░░░░░░░░░   20.32 % 
