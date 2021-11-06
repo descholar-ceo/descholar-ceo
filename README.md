@@ -18,7 +18,7 @@ ___
 ### My last week work's statistics
 <!--START_SECTION:waka-->
 ```text
-Week: 29 October, 2021 - 04 November, 2021
+Week: 30 October, 2021 - 05 November, 2021
 
 YAML         3 hrs 44 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.79 % 
 JavaScript   2 hrs 36 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.69 % 
