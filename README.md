@@ -18,7 +18,7 @@ ___
 ### My last week work's statistics
 <!--START_SECTION:waka-->
 ```text
-Week: 03 November, 2021 - 09 November, 2021
+Week: 04 November, 2021 - 10 November, 2021
 
 YAML         3 hrs 37 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.98 % 
 Vue.js       3 hrs 27 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.13 % 
