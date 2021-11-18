@@ -18,13 +18,13 @@ ___
 ### My last week work's statistics
 <!--START_SECTION:waka-->
 ```text
-Week: 08 November, 2021 - 14 November, 2021
+Week: 11 November, 2021 - 17 November, 2021
 
-TypeScript   28 hrs          ███████████████▓░░░░░░░░░   62.49 % 
-Vue.js       6 hrs 13 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.91 % 
-SCSS         4 hrs 40 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
-HTML         1 hr 16 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
-JavaScript   1 hr 8 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+TypeScript   35 hrs 28 mins  █████████████████▓░░░░░░░   70.79 % 
+Vue.js       4 hrs 49 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
+SCSS         3 hrs 2 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
+Pug          1 hr 40 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+Bash         1 hr 23 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
 ```
 <!--END_SECTION:waka-->
 ### My blogposts
