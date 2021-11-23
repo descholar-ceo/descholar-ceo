@@ -18,7 +18,7 @@ ___
 ### My last week work's statistics
 <!--START_SECTION:waka-->
 ```text
-Week: 15 November, 2021 - 21 November, 2021
+Week: 16 November, 2021 - 22 November, 2021
 
 TypeScript   28 hrs 43 mins  ███████████████▒░░░░░░░░░   61.10 % 
 Vue.js       4 hrs 23 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
