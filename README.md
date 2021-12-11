@@ -18,7 +18,7 @@ ___
 ### My last week work's statistics
 <!--START_SECTION:waka-->
 ```text
-Week: 03 December, 2021 - 09 December, 2021
+Week: 04 December, 2021 - 10 December, 2021
 
 TypeScript   28 hrs 6 mins   ██████████████████████▓░░   90.77 % 
 Docker       1 hr 9 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
