@@ -18,7 +18,7 @@ ___
 ### My last week work's statistics
 <!--START_SECTION:waka-->
 ```text
-Week: 22 December, 2021 - 28 December, 2021
+Week: 23 December, 2021 - 29 December, 2021
 
 TypeScript   22 hrs 6 mins   █████████████████████▒░░░   85.92 % 
 Bash         1 hr 2 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
