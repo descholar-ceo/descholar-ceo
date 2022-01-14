@@ -18,7 +18,7 @@ ___
 ### My last week work's statistics
 <!--START_SECTION:waka-->
 ```text
-Week: 06 January, 2022 - 12 January, 2022
+Week: 07 January, 2022 - 13 January, 2022
 
 TypeScript   19 hrs 42 mins  ████████████████▒░░░░░░░░   65.73 % 
 GraphQL      4 hrs 6 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.70 % 
