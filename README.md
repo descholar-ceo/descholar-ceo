@@ -18,13 +18,13 @@ ___
 ### My last week work's statistics
 <!--START_SECTION:waka-->
 ```text
-Week: 22 January, 2022 - 28 January, 2022
+Week: 23 January, 2022 - 29 January, 2022
 
-TypeScript   15 hrs 18 mins  █████████████▒░░░░░░░░░░░   52.72 % 
-JavaScript   6 hrs 21 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.90 % 
-YAML         2 hrs 15 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
-Bash         2 hrs 9 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
-JSON         56 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
+TypeScript   9 hrs 42 mins   █████████▒░░░░░░░░░░░░░░░   36.93 % 
+JavaScript   5 hrs 50 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.22 % 
+YAML         4 hrs 14 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
+Docker       2 hrs 1 min     ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
+Bash         1 hr 20 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
 ```
 <!--END_SECTION:waka-->
 ### My blogposts
