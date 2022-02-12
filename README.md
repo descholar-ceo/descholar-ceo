@@ -18,7 +18,7 @@ ___
 ### My last week work's statistics
 <!--START_SECTION:waka-->
 ```text
-Week: 04 February, 2022 - 10 February, 2022
+Week: 05 February, 2022 - 11 February, 2022
 
 Ruby         10 hrs 48 mins  ████████░░░░░░░░░░░░░░░░░   31.51 % 
 JavaScript   7 hrs 41 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.44 % 
