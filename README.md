@@ -18,7 +18,7 @@ ___
 ### My last week work's statistics
 <!--START_SECTION:waka-->
 ```text
-Week: 07 February, 2022 - 13 February, 2022
+Week: 08 February, 2022 - 14 February, 2022
 
 JavaScript   7 hrs 25 mins   ███████░░░░░░░░░░░░░░░░░░   27.67 % 
 TypeScript   7 hrs 20 mins   ███████░░░░░░░░░░░░░░░░░░   27.35 % 
