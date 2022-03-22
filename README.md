@@ -19,10 +19,10 @@ ___
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 March 2022 - To: 20 March 2022
+From: 14 March 2022 - To: 21 March 2022
 
-TypeScript   27 hrs 7 mins   █████████████████████░░░░   83.50 %
-Other        1 hr 56 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.98 %
+TypeScript        22 hrs 38 mins  █████████████████████░░░░   84.65 %
+Other             54 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
 ```
 
 <!--END_SECTION:waka-->
