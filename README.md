@@ -19,10 +19,14 @@ ___
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 March 2022 - To: 21 March 2022
+From: 15 March 2022 - To: 22 March 2022
 
-TypeScript        22 hrs 38 mins  █████████████████████░░░░   84.65 %
-Other             54 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
+TypeScript        18 hrs 1 min    ████████████████████▒░░░░   81.63 %
+JSON              57 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 %
+Protocol Buffer   47 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 %
+C                 30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
+Docker            23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
+Crystal           19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
 ```
 
 <!--END_SECTION:waka-->
