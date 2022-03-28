@@ -19,14 +19,14 @@ ___
 <!--START_SECTION:waka-->
 
 ```text
-From: 19 March 2022 - To: 26 March 2022
+From: 20 March 2022 - To: 27 March 2022
 
-TypeScript        22 hrs 5 mins   █████████████████▓░░░░░░░   70.27 %
-Bash              2 hrs 18 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 %
-Protocol Buffer   1 hr 51 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.94 %
-YAML              1 hr 28 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 %
-JSON              1 hr 18 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 %
-C                 30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
+TypeScript        18 hrs 57 mins  ███████████████▒░░░░░░░░░   61.45 %
+Elixir            3 hrs 57 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.85 %
+Bash              2 hrs 18 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 %
+Protocol Buffer   1 hr 51 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.05 %
+YAML              1 hr 21 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 %
+JSON              1 hr 16 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 %
 ```
 
 <!--END_SECTION:waka-->
