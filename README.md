@@ -19,14 +19,14 @@ ___
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 April 2022 - To: 07 May 2022
+From: 01 May 2022 - To: 08 May 2022
 
-TypeScript        32 hrs 19 mins  ██████████████████▓░░░░░░   75.08 %
-JavaScript        6 hrs 39 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.45 %
-Protocol Buffer   2 hrs 18 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.34 %
-Docker            27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
-JSON              26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
-Bash              21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
+TypeScript        34 hrs 7 mins   ██████████████████░░░░░░░   72.48 %
+JavaScript        8 hrs 59 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.08 %
+Protocol Buffer   2 hrs 18 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.89 %
+Docker            27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
+Bash              21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+YAML              19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
 ```
 
 <!--END_SECTION:waka-->
