@@ -19,13 +19,11 @@ ___
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 June 2022 - To: 29 June 2022
+From: 23 June 2022 - To: 30 June 2022
 
-TypeScript   16 hrs 15 mins  ███████████░░░░░░░░░░░░░░   43.58 %
-JavaScript   8 hrs 50 mins   ██████░░░░░░░░░░░░░░░░░░░   23.71 %
-Docker       3 hrs 18 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.88 %
-YAML         2 hrs 51 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 %
-Other        2 hrs 34 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.91 %
+TypeScript   16 hrs 55 mins  ██████████░░░░░░░░░░░░░░░   40.35 %
+JavaScript   11 hrs 22 mins  ██████▓░░░░░░░░░░░░░░░░░░   27.13 %
+Other        4 hrs 57 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.82 %
 ```
 
 <!--END_SECTION:waka-->
