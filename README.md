@@ -29,7 +29,6 @@ Other        4 hrs 36 mins   ██▒░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 ### My blogposts
 <!-- BLOG-POST-LIST:START -->
-- [hhjglkj;llkn;l.m;lkn](https://medium.com/@emmamugira/lkn-l-m-lkn-b1c3a0ae3a31?source=rss-e9c027d169e1------2)
 - [How and when to validate user inputs before persisting them to your database in MVC system?](https://medium.com/@emmamugira/how-and-when-to-validate-user-inputs-before-persisting-them-in-a-database-in-mvc-system-b4182aa8b19f?source=rss-e9c027d169e1------2)
 - [How To Resolve Git Conflicts After Rebase?](https://medium.com/@emmamugira/how-to-resolve-git-conflicts-after-rebase-e4afde1eab1?source=rss-e9c027d169e1------2)
 <!-- BLOG-POST-LIST:END -->
