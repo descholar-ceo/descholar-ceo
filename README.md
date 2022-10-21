@@ -19,14 +19,14 @@ ___
 <!--START_SECTION:waka-->
 
 ```text
-From: 11 October 2022 - To: 18 October 2022
+From: 13 October 2022 - To: 20 October 2022
 
-TypeScript        23 hrs 10 mins  ██████████████▓░░░░░░░░░░   58.27 %
-JavaScript        11 hrs 35 mins  ███████▒░░░░░░░░░░░░░░░░░   29.12 %
-JSON              2 hrs 12 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.57 %
-GraphQL           52 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
-YAML              36 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
-Bash              35 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
+TypeScript        26 hrs 50 mins  ███████████████▓░░░░░░░░░   63.20 %
+JavaScript        9 hrs 21 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.03 %
+JSON              2 hrs 44 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.48 %
+Bash              1 hr 5 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
+GraphQL           59 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
+YAML              43 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
 ```
 
 <!--END_SECTION:waka-->
