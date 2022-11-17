@@ -19,12 +19,12 @@ ___
 <!--START_SECTION:waka-->
 
 ```text
-From: 07 November 2022 - To: 14 November 2022
+From: 08 November 2022 - To: 15 November 2022
 
-JavaScript   32 hrs          ███████████████░░░░░░░░░░   59.74 %
-Crystal      8 hrs 48 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.44 %
-TypeScript   6 hrs 31 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.18 %
-Other        2 hrs 5 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 %
+JavaScript   31 hrs 56 mins  ████████████████░░░░░░░░░   63.67 %
+Crystal      8 hrs 48 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.56 %
+TypeScript   3 hrs 35 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.17 %
+Other        2 hrs 11 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 %
 ```
 
 <!--END_SECTION:waka-->
