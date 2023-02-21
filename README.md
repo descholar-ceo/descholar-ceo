@@ -19,14 +19,14 @@ ___
 <!--START_SECTION:waka-->
 
 ```text
-From: 11 February 2023 - To: 18 February 2023
+From: 12 February 2023 - To: 19 February 2023
 
-JavaScript        17 hrs 24 mins  █████████████▒░░░░░░░░░░░   53.55 %
-TypeScript        6 hrs 54 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.26 %
-Crystal           3 hrs 57 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.19 %
-JSON              1 hr 55 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.93 %
-Bash              53 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
-YAML              28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
+JavaScript        11 hrs 29 mins  █████████░░░░░░░░░░░░░░░░   35.80 %
+TypeScript        8 hrs 33 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.62 %
+Crystal           6 hrs 54 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.49 %
+JSON              1 hr 41 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 %
+Bash              1 hr 23 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 %
+YAML              46 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
 ```
 
 <!--END_SECTION:waka-->
