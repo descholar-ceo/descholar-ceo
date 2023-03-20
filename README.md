@@ -19,7 +19,7 @@ ___
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 March 2023 - To: 17 March 2023
+From: 11 March 2023 - To: 18 March 2023
 
 JavaScript   9 hrs 49 mins   ████████░░░░░░░░░░░░░░░░░   31.47 %
 TypeScript   7 hrs 27 mins   ██████░░░░░░░░░░░░░░░░░░░   23.90 %
