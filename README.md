@@ -19,13 +19,14 @@ ___
 <!--START_SECTION:waka-->
 
 ```text
-From: 18 April 2023 - To: 25 April 2023
+From: 19 April 2023 - To: 26 April 2023
 
-TypeScript    10 hrs 44 mins  ██████████████░░░░░░░░░░░   56.15 %
-JavaScript    4 hrs 46 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.99 %
-JSON          1 hr 39 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.69 %
-YAML          41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
-Other         17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
+TypeScript    8 hrs 35 mins   ██████████▓░░░░░░░░░░░░░░   42.29 %
+JavaScript    8 hrs 32 mins   ██████████▓░░░░░░░░░░░░░░   42.04 %
+JSON          1 hr 42 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 %
+YAML          41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
+Git Config    12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
+Groovy        11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
 ```
 
 <!--END_SECTION:waka-->
