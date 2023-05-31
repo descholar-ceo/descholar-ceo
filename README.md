@@ -19,13 +19,13 @@ ___
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 May 2023 - To: 28 May 2023
+From: 22 May 2023 - To: 29 May 2023
 
-TypeScript        25 hrs 13 mins  ████████████████░░░░░░░░░   63.89 %
-HTML              8 hrs 7 mins    █████░░░░░░░░░░░░░░░░░░░░   20.58 %
-JavaScript        4 hrs 19 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.96 %
-Bash              1 hr 3 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
-JSON              18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+TypeScript   27 hrs 39 mins  ████████████████▒░░░░░░░░   64.99 %
+HTML         8 hrs 43 mins   █████░░░░░░░░░░░░░░░░░░░░   20.51 %
+JavaScript   4 hrs 15 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.00 %
+Bash         1 hr 15 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 %
+JSON         17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
 ```
 
 <!--END_SECTION:waka-->
