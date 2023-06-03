@@ -18,14 +18,14 @@ ___
 ### My last week work's statistics
 <!--START_SECTION:waka-->
 
-```text
-From: 24 May 2023 - To: 31 May 2023
+```txt
+From: 25 May 2023 - To: 01 June 2023
 
-TypeScript        28 hrs 19 mins  ███████████████▓░░░░░░░░░   62.25 %
-HTML              11 hrs 27 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.17 %
-SCSS              2 hrs 39 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.83 %
-JavaScript        1 hr 29 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
-Bash              29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
+TypeScript        26 hrs 15 mins  ██████████████▓░░░░░░░░░░   59.15 %
+HTML              11 hrs 49 mins  ██████▓░░░░░░░░░░░░░░░░░░   26.65 %
+SCSS              2 hrs 39 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.97 %
+JavaScript        1 hr 49 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 %
+Bash              41 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
 ```
 
 <!--END_SECTION:waka-->
