@@ -19,13 +19,13 @@ ___
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 June 2023 - To: 09 June 2023
+From: 03 June 2023 - To: 10 June 2023
 
-Java              5 hrs 27 mins   █████████░░░░░░░░░░░░░░░░   35.44 %
-TypeScript        5 hrs 19 mins   ████████▓░░░░░░░░░░░░░░░░   34.60 %
-YAML              1 hr 17 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 %
-HTML              50 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 %
-Other             40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 %
+TypeScript        6 hrs 26 mins   ████████████▒░░░░░░░░░░░░   49.66 %
+Java              5 hrs 27 mins   ██████████▓░░░░░░░░░░░░░░   42.04 %
+Protocol Buffer   29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 %
+Other             29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 %
+Git Config        4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
 ```
 
 <!--END_SECTION:waka-->
