@@ -29,8 +29,8 @@ Docker       18 mins         ▒░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
--->
-### My blogposts
+
+### My blog posts
 <!-- BLOG-POST-LIST:START -->
 - [How and when to validate user inputs before persisting them to your database in MVC system?](https://medium.com/@emmamugira/how-and-when-to-validate-user-inputs-before-persisting-them-in-a-database-in-mvc-system-b4182aa8b19f?source=rss-e9c027d169e1------2)
 - [How To Resolve Git Conflicts After Rebase?](https://medium.com/@emmamugira/how-to-resolve-git-conflicts-after-rebase-e4afde1eab1?source=rss-e9c027d169e1------2)
