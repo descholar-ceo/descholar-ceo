@@ -19,13 +19,13 @@ ___
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 July 2023 - To: 17 July 2023
+From: 11 July 2023 - To: 18 July 2023
 
-TypeScript        9 hrs 22 mins   ████████████████████░░░░░   80.43 %
-Crystal           1 hr            ██▒░░░░░░░░░░░░░░░░░░░░░░   08.71 %
-Bash              52 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 %
-Protocol Buffer   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
-YAML              11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
+TypeScript        12 hrs 24 mins  █████████████████████░░░░   83.54 %
+Crystal           49 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.51 %
+Bash              40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
+Protocol Buffer   38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 %
+YAML              11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
 ```
 
 <!--END_SECTION:waka-->
