@@ -19,13 +19,13 @@ ___
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 July 2023 - To: 23 July 2023
+From: 17 July 2023 - To: 24 July 2023
 
-TypeScript        19 hrs 28 mins  █████████████████▓░░░░░░░   70.40 %
-Pug               1 hr 36 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.84 %
-Other             1 hr 22 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.00 %
-Bash              1 hr 21 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.93 %
-Protocol Buffer   52 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
+TypeScript        23 hrs 38 mins  █████████████████▓░░░░░░░   70.92 %
+Pug               1 hr 57 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.90 %
+Bash              1 hr 50 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.51 %
+Other             1 hr 39 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.96 %
+JSON              1 hr 9 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
 ```
 
 <!--END_SECTION:waka-->
