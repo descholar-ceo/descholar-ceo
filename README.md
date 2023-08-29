@@ -19,13 +19,13 @@ ___
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 August 2023 - To: 26 August 2023
+From: 21 August 2023 - To: 28 August 2023
 
-TypeScript        33 hrs 36 mins  ██████████████████░░░░░░░   72.44 %
-HTML              7 hrs           ███▓░░░░░░░░░░░░░░░░░░░░░   15.09 %
-Crystal           1 hr 54 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 %
-JavaScript        1 hr 44 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
-Pug               36 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
+TypeScript        35 hrs 2 mins   ██████████████████▓░░░░░░   74.34 %
+HTML              6 hrs 34 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.95 %
+Crystal           1 hr 47 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 %
+JavaScript        1 hr 44 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
+Pug               36 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
 ```
 
 <!--END_SECTION:waka-->
