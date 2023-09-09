@@ -19,13 +19,13 @@ ___
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 August 2023 - To: 06 September 2023
+From: 31 August 2023 - To: 07 September 2023
 
-TypeScript        24 hrs 48 mins  ████████████████▓░░░░░░░░   66.21 %
-HTML              5 hrs 30 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.72 %
-Protocol Buffer   2 hrs 6 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.61 %
-Assembly          1 hr 31 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 %
-Bash              1 hr 23 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
+TypeScript        26 hrs 27 mins  ████████████████░░░░░░░░░   63.40 %
+HTML              7 hrs 36 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.22 %
+Protocol Buffer   2 hrs 9 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.18 %
+Assembly          1 hr 31 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
+Bash              1 hr 19 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
 ```
 
 <!--END_SECTION:waka-->
