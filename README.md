@@ -19,13 +19,13 @@ ___
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 September 2023 - To: 30 September 2023
+From: 24 September 2023 - To: 01 October 2023
 
-TypeScript        7 hrs 40 mins   ██████████▒░░░░░░░░░░░░░░   40.89 %
-YAML              5 hrs 25 mins   ███████▒░░░░░░░░░░░░░░░░░   28.92 %
-Crystal           2 hrs 10 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.57 %
-Bash              1 hr 32 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 %
-SQL               42 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
+TypeScript        8 hrs 8 mins    ████████████████░░░░░░░░░   64.34 %
+Bash              1 hr 2 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 %
+HTML              52 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.93 %
+YAML              41 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.51 %
+Ruby              38 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.04 %
 ```
 
 <!--END_SECTION:waka-->
