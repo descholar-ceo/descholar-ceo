@@ -19,13 +19,13 @@ ___
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 October 2023 - To: 31 October 2023
+From: 25 October 2023 - To: 01 November 2023
 
-TypeScript   19 hrs 57 mins  ███████████▒░░░░░░░░░░░░░   45.16 %
-Crystal      18 hrs 54 mins  ██████████▓░░░░░░░░░░░░░░   42.78 %
-SQL          2 hrs 53 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.54 %
-Other        52 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
-HTML         45 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
+TypeScript        22 hrs 59 mins  ████████████▓░░░░░░░░░░░░   50.88 %
+Crystal           16 hrs 56 mins  █████████▒░░░░░░░░░░░░░░░   37.47 %
+SQL               2 hrs 53 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.40 %
+Other             52 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
+HTML              45 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
 ```
 
 <!--END_SECTION:waka-->
