@@ -19,7 +19,7 @@ ___
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 November 2023 - To: 10 November 2023
+From: 04 November 2023 - To: 11 November 2023
 
 TypeScript        18 hrs 12 mins  ████████████████▒░░░░░░░░   65.59 %
 Crystal           3 hrs 51 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.89 %
