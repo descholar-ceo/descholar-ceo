@@ -19,13 +19,13 @@ ___
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 December 2023 - To: 09 December 2023
+From: 03 December 2023 - To: 10 December 2023
 
-TypeScript        24 hrs 58 mins  ████████████████▓░░░░░░░░   66.20 %
-YAML              6 hrs 29 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.19 %
-HTML              3 hrs 29 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.26 %
-Bash              1 hr 10 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
-Crystal           50 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
+TypeScript        28 hrs 6 mins   ████████████████▓░░░░░░░░   66.59 %
+YAML              6 hrs 13 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.76 %
+HTML              6 hrs 10 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.61 %
+Bash              45 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
+Crystal           45 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
 ```
 
 <!--END_SECTION:waka-->
