@@ -19,13 +19,13 @@ ___
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 January 2024 - To: 09 January 2024
+From: 03 January 2024 - To: 10 January 2024
 
-TypeScript   10 hrs 18 mins  ███████████████░░░░░░░░░░   60.33 %
-Crystal      5 hrs 24 mins   ████████░░░░░░░░░░░░░░░░░   31.71 %
-SQL          39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
-HTML         26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
-Bash         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+TypeScript        12 hrs 18 mins  ████████████████░░░░░░░░░   64.16 %
+Crystal           5 hrs 25 mins   ███████░░░░░░░░░░░░░░░░░░   28.25 %
+SQL               39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 %
+HTML              26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
+Bash              9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
 ```
 
 <!--END_SECTION:waka-->
