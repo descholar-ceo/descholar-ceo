@@ -19,13 +19,13 @@ ___
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 February 2024 - To: 29 February 2024
+From: 23 February 2024 - To: 01 March 2024
 
-TypeScript        10 hrs 44 mins  █████████▓░░░░░░░░░░░░░░░   39.18 %
-Crystal           8 hrs 9 mins    ███████▒░░░░░░░░░░░░░░░░░   29.77 %
-HTML              5 hrs 41 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.75 %
-YAML              1 hr 14 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 %
-Bash              29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
+TypeScript        10 hrs 13 mins  ██████████░░░░░░░░░░░░░░░   40.20 %
+Crystal           6 hrs           ██████░░░░░░░░░░░░░░░░░░░   23.63 %
+HTML              5 hrs 41 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.34 %
+YAML              1 hr 51 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.29 %
+Bash              30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
 ```
 
 <!--END_SECTION:waka-->
