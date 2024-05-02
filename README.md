@@ -19,13 +19,13 @@ ___
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 April 2024 - To: 29 April 2024
+From: 23 April 2024 - To: 30 April 2024
 
-CSS               8 hrs 42 mins   █████████▓░░░░░░░░░░░░░░░   39.07 %
-HTML              6 hrs 13 mins   ███████░░░░░░░░░░░░░░░░░░   27.91 %
-TypeScript        5 hrs 46 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.93 %
-JavaScript        1 hr 6 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.98 %
-Protocol Buffer   22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
+CSS               10 hrs 28 mins  ███████████░░░░░░░░░░░░░░   43.99 %
+HTML              6 hrs 39 mins   ███████░░░░░░░░░░░░░░░░░░   27.97 %
+TypeScript        5 hrs 9 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.70 %
+JavaScript        1 hr 6 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.67 %
+Protocol Buffer   16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
 ```
 
 <!--END_SECTION:waka-->
