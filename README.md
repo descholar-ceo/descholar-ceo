@@ -19,13 +19,13 @@ ___
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 August 2024 - To: 11 August 2024
+From: 05 August 2024 - To: 12 August 2024
 
-TypeScript   5 hrs 26 mins   ████████████▒░░░░░░░░░░░░   49.77 %
-Go           3 hrs 3 mins    ███████░░░░░░░░░░░░░░░░░░   27.89 %
-GraphQL      44 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.75 %
-SQL          43 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.63 %
-JavaScript   20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
+Go           3 hrs 3 mins    ██████████▒░░░░░░░░░░░░░░   41.12 %
+TypeScript   2 hrs 41 mins   █████████░░░░░░░░░░░░░░░░   36.32 %
+SQL          43 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.77 %
+GraphQL      34 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 %
+Bash         9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
 ```
 
 <!--END_SECTION:waka-->
