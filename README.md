@@ -19,7 +19,7 @@ ___
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 August 2024 - To: 31 August 2024
+From: 25 August 2024 - To: 01 September 2024
 
 TypeScript        2 hrs 53 mins   ████████████░░░░░░░░░░░░░   47.45 %
 YAML              1 hr 18 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.30 %
