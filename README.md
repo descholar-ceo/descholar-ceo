@@ -19,13 +19,13 @@ ___
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 December 2024 - To: 08 December 2024
+From: 02 December 2024 - To: 09 December 2024
 
-Go            4 hrs 27 mins   ██████████▒░░░░░░░░░░░░░░   41.90 %
-TypeScript    3 hrs 14 mins   ███████▓░░░░░░░░░░░░░░░░░   30.52 %
-HTML          40 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.28 %
-GraphQL       31 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.93 %
-Bash          27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
+Go                5 hrs 1 min     ████████████░░░░░░░░░░░░░   47.79 %
+TypeScript        3 hrs 14 mins   ███████▓░░░░░░░░░░░░░░░░░   30.90 %
+GraphQL           36 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.82 %
+Bash              24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
+YAML              18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
 ```
 
 <!--END_SECTION:waka-->
