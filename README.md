@@ -19,13 +19,13 @@ ___
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 January 2025 - To: 25 January 2025
+From: 19 January 2025 - To: 26 January 2025
 
-Go                12 hrs 3 mins   ██████████████░░░░░░░░░░░   55.51 %
-TypeScript        6 hrs 11 mins   ███████░░░░░░░░░░░░░░░░░░   28.50 %
-Bash              1 hr 7 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.15 %
-YAML              25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
-GraphQL           23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
+Go                12 hrs 3 mins   ███████████▓░░░░░░░░░░░░░   46.41 %
+TypeScript        6 hrs 13 mins   ██████░░░░░░░░░░░░░░░░░░░   23.95 %
+Bash              3 hrs 3 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.81 %
+YAML              1 hr 52 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.23 %
+Docker            42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
 ```
 
 <!--END_SECTION:waka-->
