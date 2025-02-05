@@ -19,13 +19,13 @@ ___
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 January 2025 - To: 02 February 2025
+From: 27 January 2025 - To: 03 February 2025
 
-Go                3 hrs 54 mins   ████████▒░░░░░░░░░░░░░░░░   33.03 %
-TypeScript        1 hr 38 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.89 %
-Bash              1 hr 37 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.77 %
-Protocol Buffer   1 hr 1 min      ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 %
-YAML              53 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 %
+Go                6 hrs 55 mins   ███████████▒░░░░░░░░░░░░░   45.74 %
+TypeScript        2 hrs 57 mins   █████░░░░░░░░░░░░░░░░░░░░   19.52 %
+Bash              1 hr 17 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 %
+Protocol Buffer   1 hr 6 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 %
+YAML              44 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 %
 ```
 
 <!--END_SECTION:waka-->
