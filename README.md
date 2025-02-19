@@ -19,13 +19,13 @@ ___
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 February 2025 - To: 16 February 2025
+From: 10 February 2025 - To: 17 February 2025
 
-Other             66 hrs 14 mins  █████████████████████▓░░░   86.67 %
-Go                4 hrs 55 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 %
-TypeScript        3 hrs 26 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 %
-Protocol Buffer   32 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
-GraphQL           25 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
+Other             66 hrs 56 mins  ██████████████████████░░░   87.94 %
+TypeScript        4 hrs 28 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.87 %
+Go                2 hrs 46 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
+Protocol Buffer   38 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
+GraphQL           24 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
 ```
 
 <!--END_SECTION:waka-->
