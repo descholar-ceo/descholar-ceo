@@ -19,13 +19,13 @@ ___
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 April 2025 - To: 25 April 2025
+From: 19 April 2025 - To: 26 April 2025
 
-TypeScript        2 hrs 27 mins   ████████████████████▒░░░░   81.51 %
-Bash              21 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.03 %
-YAML              4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
-Go                2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
-Protocol Buffer   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+TypeScript        3 hrs 14 mins   █████████████████████▒░░░   85.34 %
+Bash              21 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.54 %
+YAML              4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
+Go                2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
+Protocol Buffer   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
 ```
 
 <!--END_SECTION:waka-->
