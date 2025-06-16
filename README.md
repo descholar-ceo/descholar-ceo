@@ -19,13 +19,13 @@ ___
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 June 2025 - To: 13 June 2025
+From: 07 June 2025 - To: 14 June 2025
 
-TypeScript          29 hrs 6 mins   ██████████████░░░░░░░░░░░   55.62 %
-Dart                10 hrs 44 mins  █████░░░░░░░░░░░░░░░░░░░░   20.54 %
-Gradle Kotlin DSL   4 hrs 55 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.42 %
-YAML                3 hrs 18 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.32 %
-Bash                2 hrs 50 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.42 %
+TypeScript          27 hrs 24 mins  █████████████░░░░░░░░░░░░   52.47 %
+Dart                11 hrs 40 mins  █████▓░░░░░░░░░░░░░░░░░░░   22.35 %
+Gradle Kotlin DSL   4 hrs 55 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.44 %
+YAML                3 hrs 20 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.41 %
+Bash                3 hrs 11 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.10 %
 ```
 
 <!--END_SECTION:waka-->
